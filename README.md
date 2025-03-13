@@ -52,7 +52,7 @@ AdvancedCNN 모델이 가장 높은 정확도를 기록하여 최적의 모델�
 
 ## 🚀 실행 방법
 
-데이터셋이 필요하다면, [여기](https://github.com/MLMedical9707/BRAIN_TUMOR_SEGMENTATION/blob/main/BRAIN_TUMOR_SEGMENTATION.ipynb)에서 다운로드할 수 있습니다.
+파일 필요 시, [여기](https://github.com/MLMedical9707/BRAIN_TUMOR_SEGMENTATION/blob/main/BRAIN_TUMOR_SEGMENTATION.ipynb)에서 다운로드할 수 있습니다.
 
 ## 📄 라이선스
 이 프로젝트는 **MIT License** 하에 배포됩니다.
